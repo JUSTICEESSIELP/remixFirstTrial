@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "arr",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"daulat/dataStorage.sol": "ArrayContract"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"daulat/dataStorage.sol": {
+			"keccak256": "0xb0d1a55de2943c29e8369bd387b2a97180d7d661262e590911eaa2bff7d089e9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://297e8fda901468ad69e77e1e13c9e1cd6758a9193902845c4b97f7ed80521d3c",
+				"dweb:/ipfs/QmQw3xcN5DrWDxTqFF22Asx1FiBXQWWEdgNmmj2Db79yNR"
+			]
+		}
+	},
+	"version": 1
+}
